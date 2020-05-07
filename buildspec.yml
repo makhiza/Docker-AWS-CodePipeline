@@ -11,4 +11,4 @@ artifacts:
     - start.sh
     - stop.sh
     - validate.sh
-    - appspec.yml
+    - AppSpec.yml
