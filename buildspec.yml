@@ -7,5 +7,6 @@ phases:
       - mvn install
 artifacts:
   files:
-    - 'Dockerfile'
-    - 'target/example-1.0.0-SNAPSHOT.jar'
+    - target/*
+    - scripts/*
+    - appspec.yml
